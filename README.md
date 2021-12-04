@@ -6,5 +6,5 @@ Manuscript in preparation.
 
 
 <p align="center">
-  <img width="300" height="300" src="https://github.com/richyyun/StimulusResponse/blob/main/InhibitionExample-01.png">
+  <img width="500" height="500" src="https://github.com/richyyun/StimulusResponse/blob/main/InhibitionExample-01.png">
 </p>
