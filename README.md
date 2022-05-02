@@ -8,3 +8,4 @@ Example short-term excitatory response followed by long-term inhibitory response
   <img width="750" height="500" src="https://github.com/richyyun/StimulusResponse/blob/main/InhibitionExample-01.png">
 </p>
 
+We tracked the changes in responses over time due to repetitive stimulation, their dependence on spontaneous firing rates and firing patterns, and the relationship between the excitatory and inhibitory responses.
