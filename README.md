@@ -1,4 +1,4 @@
-# [StimulusResponse](https://www.richyyun.com/projects/4.-responses-of-cortical-neurons-to-icms-in-awake-primates)
+# StimulusResponse ([bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.30.486457v1))
 
 Analysis of electrical stimulus (intracortical microstimulation) responses of single units. Data was collected using the Neural Interface Processor from Ripple Neuro with Utah arrays in the motor cortex of non-human primates. 
 
@@ -8,4 +8,3 @@ Example short-term excitatory response followed by long-term inhibitory response
   <img width="750" height="500" src="https://github.com/richyyun/StimulusResponse/blob/main/InhibitionExample-01.png">
 </p>
 
-Manuscript in preparation.
