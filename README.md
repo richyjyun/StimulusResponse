@@ -17,3 +17,4 @@ We tracked the changes in responses over time due to repetitive stimulation, the
 - Determine changes in responses due to stimuls amplitude, distance from the stimulus site, and stimulus frequency.
 - Determine whether the spontaneous firing rate is correlated with the excitatory or inhibitory responses over time
 - Determine if the timing of each stimulus relative to the most recent spontanous spike affects the excitory or inhibitory response. 
+- Distinguish between fast- and regular-spiking neurons using the spike width (time from the trough to peak of the spike) and whether any measure is dependent on spike type. 
