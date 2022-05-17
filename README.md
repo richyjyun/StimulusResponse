@@ -8,8 +8,6 @@ Example short-term excitatory response followed by long-term inhibitory response
   <img width="700" height="500" src="https://github.com/richyyun/StimulusResponse/blob/main/InhibitionExample-01.png">
 </p>
 
-We tracked the changes in responses over time due to repetitive stimulation, their dependence on spontaneous firing rates and firing patterns, and the relationship between the excitatory and inhibitory responses.
-
 ## Analyses Performed
 - Create a session list (SL) of all experimental sessions.
 - Calculate both the excitatory and inhibitory responses for each detected spike. Excitatory response was calculated by thresholding the PSTH to find a peak. The inhibitory response was calculated by the time until the next spontaneous spike for each stimulus onset. 
